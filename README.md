@@ -1,9 +1,9 @@
 # Dr. Gilson Oliveira
 
-Site estático de harmonização facial em Presidente Prudente.
+Site institucional estático de harmonização facial em Presidente Prudente.
 
-Publicado em https://agenciaolhooptico.github.io/dr-gilson-oliveira/
+https://agenciaolhooptico.github.io/dr-gilson-oliveira/
 
-GitHub Pages: branch main, diretório raiz. Não há etapa de compilação nem dependências. Arquivos HTML, CSS, JavaScript e imagens prontos para servir.
+GitHub Pages: main, diretório raiz. HTML, CSS e JavaScript sem etapa de compilação. Layout responsivo com tipografia Inter e fotografias profissionais do perfil @drgilson.oliveira. Não contém fotos de pacientes nem imagens de banco.
 
-Imagem de abertura ilustrativa: Unsplash. Foto do profissional: perfil público @drgilson.oliveira.
+As fotografias utilizadas são capas de conteúdos públicos do próprio profissional. Fontes: https://www.instagram.com/drgilson.oliveira/p/DbRReQ5D3r7/ e https://www.instagram.com/drgilson.oliveira/. Formação acadêmica e especialidades formais não são afirmadas sem confirmação documental.
